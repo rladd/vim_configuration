@@ -1,0 +1,19 @@
+# ------------------------------------------------------------------------
+#
+# Title: VIM Configuration Project
+#
+# Author: Ross Ladd
+# Date: 2012-05-20
+# Description:
+#
+#     This is the Element63 configuration for vim - intended for Mac OSX.
+#
+# ------------------------------------------------------------------------
+
+
+# Date: 2012-05-20
+# ------------------------------------------------------------------------
+  - Added support for line tracking
+
+
+
